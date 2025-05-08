@@ -1,4 +1,7 @@
 ### Flow Free SAT Solver
+In collaboration with Andrew
+
+---
 
 Run single board: main.solveBoard(pathToBoard, model='andrew / pysat / pycosat', display=True / False)
 
